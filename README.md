@@ -60,7 +60,7 @@ The goal of this project is to design a servo-controlled arm holding a small sol
 4. Wait 100ms and repeat
 
 ![structure_diagram](./Pictures/structure_diagram.png)
-![Project_pic](./Pictures/project_picture,jpg)
+![Project_pic](./Pictures/project_picture.jpg)
 
 
 
